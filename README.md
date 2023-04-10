@@ -11,5 +11,8 @@ bakri asas
 
 # Bank ideas
 New Account
+
 Type of Account
+
+Add bills
 
