@@ -1,5 +1,5 @@
 # Bank-management-system
 
-#Bank ideas
+# Bank ideas
 New Account
 Type of Account
